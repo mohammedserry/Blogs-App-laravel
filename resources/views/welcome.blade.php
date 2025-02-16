@@ -154,9 +154,7 @@
 
     [type=search] {
       -webkit-appearance: textfield;
-      /* For older WebKit-based browsers */
       appearance: textfield;
-      /* Standard property */
       outline-offset: -2px;
     }
 

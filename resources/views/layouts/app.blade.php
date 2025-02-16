@@ -12,7 +12,7 @@
   <!-- Animate.css for animations -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
   <!-- Favicon -->
-  <!-- <link rel="icon" type="image/png" sizes="32x32" href="https://images.pexels.com/photos/430205/pexels-photo-430205.jpeg"> -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/laravel.svg') }}">
 
   <!-- Custom CSS -->
   <style>
